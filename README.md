@@ -14,7 +14,7 @@ streamlit run dashboard.py
 
 ## Deploy App
 ```
-Link: https://bike-sharing-ajxwsqvtc9n3akjs3bphhc.streamlit.app/
+Link: (https://bike-sharing-ajxwsqvtc9n3akjs3bphhc.streamlit.app/)
 ```
 <img width="960" alt="image" src="https://github.com/rhisadkaptri/bike-sharing/assets/76622802/8e8da61b-bf35-4aa9-b1af-c361f087d346">
 
